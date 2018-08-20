@@ -27,10 +27,10 @@ is equal to the number of nodes in completely filled X-child tree up to n-1 leve
 We can prove that
 
 ```
-                  H - 1
- __ n - 1  r     X      - 1
- \         X  =  ----------
- /__ r = 0          X - 1
+                   n
+ __ n - 1   r     X  - 1
+ \         X  =   -------
+ /__ r = 0         X - 1
 ```
 
 using the principle of mathematical induction.
