@@ -1,8 +1,8 @@
 # leaf-nodes-x-child-tree
-An algorithm to calculate total leaf nodes in a complete X-children tree, without recursive addition, from total number of nodes provided. Each non-leaf node of the tree must have a common number of children, greater than one.
+An algorithm to calculate total last level nodes in a complete X-children tree, without recursive addition, from total number of nodes provided. Each non-leaf node of the tree must have a common number of children, greater than one.
 
 ## Formula
-The total number of leaf nodes can be given the following expression
+The total number of last level nodes can be given the following expression
 
 ```
                       H - 1     
